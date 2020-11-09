@@ -5,8 +5,8 @@
 ## 📖 About me
 
 * 💻 I'm learn full stack web developer
-* 📱 I learn to make apps for Android
 * 🎓 I'm a College Student
+* 🏍️ I'm a Motorcycle enthusiastic
 
 ## 📫 Get in touch
 - Facebook - [Marcellinus](https://web.facebook.com/IgnacyMischa123/)
