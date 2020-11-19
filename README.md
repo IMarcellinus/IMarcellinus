@@ -12,7 +12,7 @@
 - Facebook - [Marcellinus](https://web.facebook.com/IgnacyMischa123/)
 - Instagram - [Marcellinus](https://www.instagram.com/itsmarsel_)
 
- or give some ♥ on [mail](mail to:ignacymischa@gmail.com) .
+ or give some ♥ on [mail](mail to:itsmarsel@gmail.com) .
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
