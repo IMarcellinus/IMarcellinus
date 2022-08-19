@@ -20,7 +20,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMarcellinus&hide_langs_below=1&theme=radical&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=IMarcellinus&show_icons=true&count_private=true&theme=radical&include_all_commits=true&line_height=21" alt="Marcellinus Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=IMarcellinus&column=7&theme=dracula" alt="Marcellinus Github Trophy" />
 </p>
 
 </details>
