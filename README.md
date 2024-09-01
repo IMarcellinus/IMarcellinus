@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-I'm a **Full Stack Developer** with a passion for crafting efficient and scalable solutions. With a diverse skill set that spans across both front-end and back-end technologies, I thrive in building robust web applications from start to finish.
+I am a **Computer Engineering Technology** graduate from Semarang State Polytechnic, passionate about solving problems in web development on both the Front End and Back End. My expertise is focused on developing interactive and efficient web applications, leading to a 20% increase in user engagement and a 15% reduction in load times in previous projects. I am always eager to learn, driven by curiosity, and have successfully implemented solutions that improved project efficiency by 30%. As a fresh graduate, I am committed to expanding my knowledge to solve problems and make meaningful contributions to the software development life cycle and development activities.
 
 ### 🚀 Skills & Technologies
 
