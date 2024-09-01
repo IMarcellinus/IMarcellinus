@@ -5,7 +5,7 @@
 ## 📖 About me
 
 * 💻 I'm learn full stack web developer
-* 🎓 I'm a College Student
+* 🎓 I'm a Fresh Graduate
 * 🏍️ I'm a Motorcycle enthusiastic
 
 ## 📫 Get in touch
